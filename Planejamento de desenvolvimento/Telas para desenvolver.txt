@@ -1,0 +1,12 @@
+Ordem das telas:
+
+Cadastro
+Login
+Menu
+Reserva
+Consulta Reserva
+Checkin
+Pedido (Cardápio)
+Consulta pedido (Status do pedido)
+Pagamento
+Consulta Pagamento

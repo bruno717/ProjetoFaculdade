@@ -1,0 +1,20 @@
+Sprint 1 - 13/09 a 20/09
+
+Kelwin: Modelagem de dados
+        Serviço - Cadastro
+	Serviço - login
+
+Franklin: Desenho das telas -  Cadastro
+	 		       Login
+			       Menu (Menu do aplicativo)
+
+
+Lucas: Caso de uso expandido - Consulta reserva
+			       Checkin
+       Requisitos - Cadastro
+                    login
+		       
+
+Bruno: Proposta do Projeto e Cronograma
+       Requisitos - Menu
+		    Checkin
